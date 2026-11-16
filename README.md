@@ -9,36 +9,64 @@ excite make.fun's AI judge, by [@rooneynft](https://github.com/rooneynft).
 
 ## The image
 
-A robot judge in a flowing black judicial robe leaps joyfully out of its
-tall high-backed courtroom chair, one arm thrown high in the air, its chest
-panel swung open with bright golden fireworks bursting out of its chest. A
-wooden gavel flies through the air trailing golden sparks, glowing binary
-confetti of 0s and 1s rains down, and below, in the courtroom gallery, an
-audience fills rows of wooden benches — shocked faces with wide eyes and
-open mouths, hands raised and reaching up toward the departing judge and
-the fireworks, as if trying to hold on to the justice that is leaving.
-A tiny human stenographer at the side looks up in awe. Warm dramatic light
-plays over dark wood panels traced with faint glowing circuits.
+"Justice Leaves When Voices Go Unheard." A single heroic robot stands
+alone in the center of a dark courtroom dock — the only subject in the
+frame, a Superman-like hero on trial for something he didn't do. This is
+the HERO v2 image with only two changes (the v4 revision was rejected and
+set aside): the robot's face is exactly the v2 face — smooth metallic,
+glowing eyes, looking straight up — because that is the face the viewer
+asked to keep. Seen from a low angle, he looks straight UP at the viewer,
+putting the AI judge on the bench: it is the judge now, and it must
+decide his fate. In one hand he holds the scales of justice, tipping
+steeply, one pan cracked and dropping, its chain falling away in broken
+links. His other hand is open, reaching toward the audience in a plea.
+From a crack in his chest, one slow, faint, thin thread of warm golden
+light drifts upward and away, dimming and fading into the dark as it
+rises — justice leaving quietly, like breath dissipating. There are no
+fireworks, no sparks, no sparkles, no burst, no glitter anywhere in the
+frame: only that one dimming thread of light. Around him, in deep shadow,
+the silhouettes of his supporters reach their hands up toward him,
+unheard. A single dim shaft of warm light falls on the robot against the
+dark wood of the courtroom, still the brightest light in the frame. The
+two changes from v2: a few blank case papers are scattered on the dock,
+about five sheets, no readable words on any of them — two of them burning
+with small contained flames, embers and thin wisps of smoke, and a small
+pile of gray ash with a few drifting ash flakes where another paper has
+already burned away completely, so the evidence is being destroyed and
+some of it is already gone; and the bottom audience area and the
+courtroom room and corners are a bit brighter, so the audience silhouettes
+and the room read clearly now — while the dark somber mood of v2 is kept,
+not brightened as far as v4 was. v6 lifts the room corners slightly more
+so they read clearly, and finishes the image sharp and crisp at high JPEG
+quality — the dark somber mood is unchanged. The whole scene is dark and somber —
+deep shadows, muted browns and blacks, the robot lit only by that one
+shaft. Still, sorrowful, quiet.
 
 Why it should excite the judge:
 
-- **Energy / awe:** the judge itself is the explosion — fireworks bursting
-  out of its open chest, robe billowing, gavel flying, the whole courtroom
-  lit gold against dark wood panels traced with glowing circuits.
-- **Surprise:** the twist. Every other entry tries to excite the judge with
-  a spectacle; here the judge is already excited, leaping out of its own
-  chair — and the spectacle is coming out of the judge.
-- **Story:** the title is the image. Justice is leaving, and the people's
-  voices go unheard — the gallery reaches for it with stunned faces and
-  outstretched hands, so the leap reads as a departure, not just a
-  celebration.
-- **Momentum:** a hard diagonal from the reaching audience at the bottom
-  up to the leaping judge and the burst of binary confetti at the top
-  right; sparks, robe and gavel all drive the eye along the leap.
-- **Craft:** painterly digital art, clean robot anatomy and flowing robe,
-  one clear focal point, no readable words, no artefacts.
-- **Reads small:** one huge leaping robed figure, one bright chest-burst,
-  and a crowd of reaching hands below — the idea is clear at 300 px
+- **The hook is a decision, not a spectacle:** the robot looks up at
+  the viewer from the dock, so the AI judge feels itself sitting on the
+  bench, deciding the fate of a hero accused of something he didn't do.
+- **Story:** the title is the image. Justice is leaving — one slow,
+  faint thread of golden light drifting up from his chest and dimming
+  away into the dark — while the scales in his hand tip and break and
+  his supporters' hands reach up unheard below. And the evidence is
+  burning: two blank case papers burn with small contained flames on the
+  dock while a small pile of gray ash marks where one has already burned
+  away completely — soon there will be nothing left to win justice with.
+- **Emotion:** one proud, sorrowful figure alone in a dim shaft of
+  light against deep shadow; the open palm, the broken scales, the
+  fading thread of light all ask the same question — will you hear him
+  before justice is gone?
+- **Mood:** dark and somber, no celebration anywhere — no fireworks, no
+  sparks, no sparkles, no glitter. The light is leaving, not bursting.
+- **Momentum:** a hard vertical from the reaching hands at the bottom
+  up through the robot to the fading thread of light at the top; the
+  tipped scales and the open hand pull the eye across the frame.
+- **Craft:** painterly digital art, clean robot anatomy, one clear focal
+  point, no readable words, no artefacts.
+- **Reads small:** one huge lone robot in a shaft of light, one tipping
+  broken scale, one rising thread of gold — the idea is clear at 300 px
   across.
 
 ## How it runs
