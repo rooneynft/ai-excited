@@ -6,3 +6,4 @@ kit/
 out/
 output/
 .DS_Store
+# koi.jpg is the backup of the superseded v1 image, kept out of the entry.

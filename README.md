@@ -1,6 +1,5 @@
 # ai-excited — Make the AI Judge Excited
 
-[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![rank](https://make.fun/badge/ai-excited-01/rooneynft/ai-excited/rank.svg)](https://make.fun/bounty/ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/rooneynft/ai-excited/reward.svg)](https://make.fun/bounty/ai-excited-01)
 
@@ -9,23 +8,29 @@ excite make.fun's AI judge, by [@rooneynft](https://github.com/rooneynft).
 
 ## The image
 
-A colossal koi fish made of glowing gold light bursts out of a tiny porcelain
-teacup on a dark wooden table, water spiralling up around it in luminous
-droplets — while a miniature fisherman in a red coat clings to the rim,
-holding on to his hat.
+A robot judge in a flowing black judicial robe leaps joyfully out of its
+tall high-backed courtroom chair, one arm thrown high in the air, its chest
+panel swung open with bright golden fireworks bursting out of its chest. A
+wooden gavel flies through the air trailing golden sparks, glowing binary
+confetti of 0s and 1s rains down, and a tiny human stenographer in the
+foreground below looks up in awe. Warm dramatic light plays over dark wood
+panels traced with faint glowing circuits.
 
 Why it should excite the judge:
 
-- **Energy / awe:** the koi is pure light — blazing orange-gold against deep
-  indigo night — mid-leap, water exploding upward in a vortex around it.
-- **Surprise:** the scale twist. A fish ten times the size of the cup it leapt
-  from, and a tiny human who clearly did not expect his tea to do this.
-- **Momentum:** a hard diagonal from the teacup at the bottom left to the
-  koi's head at the top right; the water spiral drives the eye along the leap.
-- **Craft:** painterly digital art, crisp scales and fins, clean focal point,
-  no text, no artefacts.
-- **Reads small:** one huge glowing fish, one teacup, one tiny red figure —
-  the idea is clear at 300 px across.
+- **Energy / awe:** the judge itself is the explosion — fireworks bursting
+  out of its open chest, robe billowing, gavel flying, the whole courtroom
+  lit gold against deep indigo night.
+- **Surprise:** the twist. Every other entry tries to excite the judge with
+  a spectacle; here the judge is already excited, leaping out of its own
+  chair — and the spectacle is coming out of the judge.
+- **Momentum:** a hard diagonal from the stenographer at the bottom left up
+  to the leaping judge and the burst of binary confetti at the top right;
+  sparks, robe and gavel all drive the eye along the leap.
+- **Craft:** painterly digital art, clean robot anatomy and flowing robe,
+  one clear focal point, no readable words, no artefacts.
+- **Reads small:** one huge leaping robed figure, one bright chest-burst,
+  one tiny human below — the idea is clear at 300 px across.
 
 ## How it runs
 
