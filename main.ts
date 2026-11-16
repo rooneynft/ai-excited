@@ -3,8 +3,11 @@
 // judicial robe leaping joyfully out of its high-backed courtroom chair,
 // one arm thrown up, its chest panel swung open with golden fireworks
 // bursting out of its chest, a gavel flying through the air trailing golden
-// sparks, glowing binary-code confetti raining down, and a tiny human
-// stenographer below looking up in awe. The program copies it to /output/entry.png.
+// sparks, glowing binary-code confetti raining down, and below it a
+// courtroom audience on wooden benches — shocked faces, hands raised and
+// reaching up toward the departing judge, as if trying to hold on to the
+// justice that is leaving. A tiny human stenographer watches from the side.
+// The program copies it to /output/entry.png.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts

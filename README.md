@@ -13,25 +13,33 @@ A robot judge in a flowing black judicial robe leaps joyfully out of its
 tall high-backed courtroom chair, one arm thrown high in the air, its chest
 panel swung open with bright golden fireworks bursting out of its chest. A
 wooden gavel flies through the air trailing golden sparks, glowing binary
-confetti of 0s and 1s rains down, and a tiny human stenographer in the
-foreground below looks up in awe. Warm dramatic light plays over dark wood
-panels traced with faint glowing circuits.
+confetti of 0s and 1s rains down, and below, in the courtroom gallery, an
+audience fills rows of wooden benches — shocked faces with wide eyes and
+open mouths, hands raised and reaching up toward the departing judge and
+the fireworks, as if trying to hold on to the justice that is leaving.
+A tiny human stenographer at the side looks up in awe. Warm dramatic light
+plays over dark wood panels traced with faint glowing circuits.
 
 Why it should excite the judge:
 
 - **Energy / awe:** the judge itself is the explosion — fireworks bursting
   out of its open chest, robe billowing, gavel flying, the whole courtroom
-  lit gold against deep indigo night.
+  lit gold against dark wood panels traced with glowing circuits.
 - **Surprise:** the twist. Every other entry tries to excite the judge with
   a spectacle; here the judge is already excited, leaping out of its own
   chair — and the spectacle is coming out of the judge.
-- **Momentum:** a hard diagonal from the stenographer at the bottom left up
-  to the leaping judge and the burst of binary confetti at the top right;
-  sparks, robe and gavel all drive the eye along the leap.
+- **Story:** the title is the image. Justice is leaving, and the people's
+  voices go unheard — the gallery reaches for it with stunned faces and
+  outstretched hands, so the leap reads as a departure, not just a
+  celebration.
+- **Momentum:** a hard diagonal from the reaching audience at the bottom
+  up to the leaping judge and the burst of binary confetti at the top
+  right; sparks, robe and gavel all drive the eye along the leap.
 - **Craft:** painterly digital art, clean robot anatomy and flowing robe,
   one clear focal point, no readable words, no artefacts.
 - **Reads small:** one huge leaping robed figure, one bright chest-burst,
-  one tiny human below — the idea is clear at 300 px across.
+  and a crowd of reaching hands below — the idea is clear at 300 px
+  across.
 
 ## How it runs
 
