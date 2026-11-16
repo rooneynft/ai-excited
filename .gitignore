@@ -1,0 +1,8 @@
+node_modules/
+session.md
+makefun-run.json
+kit/
+*.tar.gz
+out/
+output/
+.DS_Store
